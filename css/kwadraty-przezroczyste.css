@@ -1,28 +1,18 @@
-#square1{
+div {
     background-color: rgb(0,0,0);
     width: 150px;
     height: 150px;
     margin: 10px 10px 10px 550px;
+}
+div.square1{
     
 }
-#square2{
-    background-color: rgb(60,60,60);
-    width: 150px;
-    height: 150px;
-    margin: 10px 10px 10px 550px;
-    
+div.square2{
+    opacity: 0.6;
 }
-#square3{
-    background-color: rgb(120,120,120);
-    width: 150px;
-    height: 150px;
-    margin: 10px 10px 10px 550px;
-    
+div.square3{
+    opacity: 0.3;
 }
-#square4{
-    background-color: rgb(180,180,180);
-    width: 150px;
-    height: 150px;
-    margin: 10px 10px 10px 550px;
-    
+div.square4{
+    opacity: 0.2;
 }
